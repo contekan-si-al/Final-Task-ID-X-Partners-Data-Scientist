@@ -15,7 +15,7 @@ Sebagai tugas akhir dari masa kontrak sebagai *intern Data Scientist* di **ID/X 
 
 ## Langkah yang harus diperhatikan:
 
-1. *File dataset* yang disediakan terdiri dari satu [*file data*]() (*format csv*) dan satu [*data dictionary*]() (*format xlsx*) yang berisikan informasi mengenai masing-masing kolom yang ada pada *file data*. Mempelajari informasi mengenai data tersebut untuk mengetahui langkah apa yang perlu dilakukan untuk mempersiapkan data
+1. *File dataset* yang disediakan terdiri dari satu [*file data*](https://rakamin-lms.s3.ap-southeast-1.amazonaws.com/vix-assets/idx-partners/loan_data_2007_2014.csv) (*format csv*) dan satu [*data dictionary*](https://docs.google.com/spreadsheets/d/1iT1JNOBwU4l616_rnJpo0iny7blZvNBs/edit?usp=sharing&ouid=106453318899954059421&rtpof=true&sd=true) (*format xlsx*) yang berisikan informasi mengenai masing-masing kolom yang ada pada *file data*. Mempelajari informasi mengenai data tersebut untuk mengetahui langkah apa yang perlu dilakukan untuk mempersiapkan data
 
 3. Menyiapkan *tools* yang akan aku gunakan untuk membantu pengerjaan soal seperti yang telah dijelaskan di *prerequisite*, lalu *import data* untuk mempersiapkan pengerjaan
 
